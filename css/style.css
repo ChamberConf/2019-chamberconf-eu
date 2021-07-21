@@ -477,6 +477,14 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 /* End cta section */
 
+/* Begin famil section */
+#famil-section {
+	padding: 70px 0 80px;
+}
+.famil-btn {
+	margin-top: 30px;
+}
+/* End famil section */
 
 /* ===== Begin testimonial ===== */
 .testimonial {
